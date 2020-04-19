@@ -4,5 +4,5 @@ Inspired by the "Rush" game mode, Nexuswars is a game between different teams. T
 
 # Purchase
 
-Spigot: Soon
+Spigot: Soon                                                                                                                               
 Mc-Market : https://www.mc-market.org/resources/14771/
