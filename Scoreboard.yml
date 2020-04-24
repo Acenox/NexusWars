@@ -1,0 +1,26 @@
+waiting-team:
+- '&7Waiting players...'
+- '&c'
+- '&7Your team: %team%'
+waiting-noteam:
+- '&7Waiting players...'
+- '&c'
+- '&7Choose a team with the wool'
+starting-team:
+- '&7Starting in &a%timer%'
+- '&c'
+- '&7Your team: %team%'
+starting-noteam:
+- '&7Starting in &a%timer%'
+- '&c'
+- '&7Choose a team with the wool'
+game-team:
+- '&7Playing time: &a%timer%'
+- '&c'
+- '&7Your team: %team%'
+game-noteam:
+- '&7Playing time: &a%timer%'
+- '&c'
+- '&7You are in Spectator'
+finish:
+- '&cGame end!'
