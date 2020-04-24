@@ -1,0 +1,19 @@
+minimum-player: 2
+backhub: 'false'
+serverteleport: hub
+spawn: 1,12,-1,-89.47926,2.0228243
+teams:
+red:
+name: Rouge
+wooldata: 14
+color: '&c'
+spawn: 0.5,12,49.5,-179.81683,-1.9312788
+nexus: 0.5,15,55.5,-180.09436,2.3602622
+shop: 0.5,12,53.5,-179.66486,-7.271767E-5
+blue:
+name: Bleu
+wooldata: 11
+color: '&9'
+spawn: 0.5,12,-50.5,-0.27722168,-0.21459842
+nexus: 0.5,15,-56.5,-359.7589,2.5748816
+shop: 0.5,12,-54.5,-0.12536621,-2.3603954
